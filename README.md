@@ -1,6 +1,11 @@
 Hi! I'm Johan Chua. 👋 
 </br>
 </br>
-I'm currently pursuing a double major in (B.S.) Statistics & Data Science and (B.A.) Business Economics, and a minor in Mathematics at UCLA. 🎓
+I'm currently pursuing a 
+- Bachelor of Science (B.S.) in Statistics & Data Science
+- Bachelor of Arts (B.A.) in Business Economics
+- And a Minor in Mathematics
+
+at the University of California, Los Angeles (UCLA). 🎓
 
 
