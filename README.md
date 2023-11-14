@@ -6,4 +6,4 @@ I'm currently pursuing a
 - Bachelor of Arts (B.A.) in Business Economics 💰
 - And a Minor in Mathematics 🔢
 
-at the University of California, Los Angeles (UCLA); and I'm set to complete the program in four years. 🎓
+at the University of California, Los Angeles (UCLA), and am on track to complete the program in four years. 🎓
