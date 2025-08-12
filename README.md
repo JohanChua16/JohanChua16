@@ -1,6 +1,5 @@
 Hi! I'm Johan Chua. 👋  
-</br>  
-</br>  
+
 I recently graduated from the University of California, Los Angeles (UCLA) 🎓 with:  
 - Bachelor of Science (B.S.) in Statistics & Data Science 📊  
 - Bachelor of Arts (B.A.) in Business Economics 💰  
